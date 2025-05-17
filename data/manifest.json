@@ -1,0 +1,2733 @@
+{
+  "timestamp": "2025-05-17T04:30:00.009Z",
+  "status": "Success",
+  "manifest": [
+    { "minPrice": 20000, "itemID": 50, "name": "Book", "league": 1 },
+    { "minPrice": 2700, "itemID": 60, "name": "Raw Shrimp", "league": 1 },
+    { "minPrice": 970, "itemID": 61, "name": "Raw Anchovy", "league": 1 },
+    { "minPrice": 1000, "itemID": 62, "name": "Raw Trout", "league": 1 },
+    { "minPrice": 2300, "itemID": 62, "name": "Raw Trout", "league": 10 },
+    { "minPrice": 1198, "itemID": 63, "name": "Raw Salmon", "league": 1 },
+    { "minPrice": 2500, "itemID": 64, "name": "Raw Lobster", "league": 1 },
+    { "minPrice": 4998, "itemID": 65, "name": "Raw Tuna", "league": 1 },
+    { "minPrice": 3600, "itemID": 66, "name": "Raw Shark", "league": 1 },
+    { "minPrice": 1500, "itemID": 67, "name": "Raw Megalodon", "league": 1 },
+    {
+      "minPrice": 8800,
+      "itemID": 68,
+      "name": "Raw Ancient Lobster",
+      "league": 1
+    },
+    {
+      "minPrice": 7900,
+      "itemID": 69,
+      "name": "Raw Tentacle Meat",
+      "league": 1
+    },
+    { "minPrice": 6700, "itemID": 70, "name": "Raw Huge Tuna", "league": 1 },
+    { "minPrice": 1299, "itemID": 71, "name": "Seaweed", "league": 1 },
+    {
+      "minPrice": 3700,
+      "itemID": 72,
+      "name": "Raw Magnetic Minnow",
+      "league": 1
+    },
+    { "minPrice": 950, "itemID": 73, "name": "Raw Tigerfish", "league": 1 },
+    {
+      "minPrice": 34000,
+      "itemID": 74,
+      "name": "Raw Slippery Eel",
+      "league": 1
+    },
+    {
+      "minPrice": 2600,
+      "itemID": 75,
+      "name": "Raw Great White Shark",
+      "league": 1
+    },
+    {
+      "minPrice": 3800,
+      "itemID": 76,
+      "name": "Raw Hammerhead Shark",
+      "league": 1
+    },
+    { "minPrice": 5000, "itemID": 77, "name": "Raw Crab", "league": 1 },
+    { "minPrice": 135, "itemID": 95, "name": "Burnt Fish", "league": 1 },
+    { "minPrice": 900, "itemID": 96, "name": "Burnt Food", "league": 1 },
+    { "minPrice": 900, "itemID": 101, "name": "Copper Ore", "league": 1 },
+    { "minPrice": 500, "itemID": 101, "name": "Copper Ore", "league": 10 },
+    { "minPrice": 889, "itemID": 102, "name": "Tin Ore", "league": 1 },
+    { "minPrice": 500, "itemID": 102, "name": "Tin Ore", "league": 10 },
+    { "minPrice": 599, "itemID": 103, "name": "Iron Ore", "league": 1 },
+    { "minPrice": 522, "itemID": 104, "name": "Gold Ore", "league": 1 },
+    { "minPrice": 949, "itemID": 104, "name": "Gold Ore", "league": 10 },
+    { "minPrice": 1600, "itemID": 105, "name": "Mithril Ore", "league": 1 },
+    { "minPrice": 995, "itemID": 105, "name": "Mithril Ore", "league": 10 },
+    { "minPrice": 2050, "itemID": 106, "name": "Adamantite Ore", "league": 1 },
+    { "minPrice": 1997, "itemID": 106, "name": "Adamantite Ore", "league": 10 },
+    { "minPrice": 1675, "itemID": 107, "name": "Runite Ore", "league": 1 },
+    { "minPrice": 593, "itemID": 107, "name": "Runite Ore", "league": 10 },
+    { "minPrice": 798, "itemID": 108, "name": "Clay", "league": 1 },
+    { "minPrice": 460, "itemID": 109, "name": "Stone", "league": 1 },
+    { "minPrice": 2, "itemID": 109, "name": "Stone", "league": 10 },
+    { "minPrice": 3300, "itemID": 110, "name": "Sand", "league": 1 },
+    { "minPrice": 743, "itemID": 111, "name": "Silver", "league": 1 },
+    { "minPrice": 1649, "itemID": 111, "name": "Silver", "league": 10 },
+    { "minPrice": 282, "itemID": 112, "name": "Coal", "league": 1 },
+    { "minPrice": 357, "itemID": 113, "name": "Rune Slate", "league": 1 },
+    { "minPrice": 799, "itemID": 113, "name": "Rune Slate", "league": 10 },
+    { "minPrice": 3229, "itemID": 114, "name": "Stygian Ore", "league": 1 },
+    { "minPrice": 14244, "itemID": 115, "name": "Void Stone", "league": 1 },
+    { "minPrice": 5000, "itemID": 150, "name": "Fertilizer", "league": 1 },
+    { "minPrice": 699, "itemID": 151, "name": "Carrot Seed", "league": 1 },
+    { "minPrice": 88, "itemID": 152, "name": "Peppercorn Seed", "league": 1 },
+    { "minPrice": 189, "itemID": 153, "name": "Sugarcane Seed", "league": 1 },
+    { "minPrice": 699, "itemID": 154, "name": "Wheat Seed", "league": 1 },
+    { "minPrice": 797, "itemID": 155, "name": "Potato Seed", "league": 1 },
+    { "minPrice": 799, "itemID": 156, "name": "Rice Seed", "league": 1 },
+    { "minPrice": 87, "itemID": 157, "name": "Tomato Seed", "league": 1 },
+    {
+      "minPrice": 199,
+      "itemID": 158,
+      "name": "Wildberry Bush Seed",
+      "league": 1
+    },
+    { "minPrice": 99, "itemID": 159, "name": "Chili Pepper Seed", "league": 1 },
+    { "minPrice": 299, "itemID": 160, "name": "Pumpkin Seed", "league": 1 },
+    { "minPrice": 189, "itemID": 161, "name": "Mushroom Spore", "league": 1 },
+    { "minPrice": 86, "itemID": 170, "name": "Tree Seed", "league": 1 },
+    { "minPrice": 699, "itemID": 171, "name": "Oak Tree Seed", "league": 1 },
+    { "minPrice": 799, "itemID": 172, "name": "Willow Tree Seed", "league": 1 },
+    { "minPrice": 199, "itemID": 173, "name": "Maple Tree Seed", "league": 1 },
+    { "minPrice": 25998, "itemID": 174, "name": "Yew Tree Seed", "league": 1 },
+    { "minPrice": 85, "itemID": 175, "name": "Banana Tree Seed", "league": 1 },
+    { "minPrice": 218, "itemID": 176, "name": "Apple Tree Seed", "league": 1 },
+    {
+      "minPrice": 54999,
+      "itemID": 177,
+      "name": "Elder Tree Seed",
+      "league": 1
+    },
+    {
+      "minPrice": 499000,
+      "itemID": 180,
+      "name": "Sageberry Bush Seed",
+      "league": 1
+    },
+    { "minPrice": 7998, "itemID": 185, "name": "Mysterious Seed", "league": 1 },
+    { "minPrice": 870, "itemID": 201, "name": "Bronze Bar", "league": 1 },
+    { "minPrice": 4999, "itemID": 201, "name": "Bronze Bar", "league": 10 },
+    { "minPrice": 1653, "itemID": 202, "name": "Iron Bar", "league": 1 },
+    { "minPrice": 4400, "itemID": 203, "name": "Gold Bar", "league": 1 },
+    { "minPrice": 8000, "itemID": 203, "name": "Gold Bar", "league": 10 },
+    { "minPrice": 11957, "itemID": 204, "name": "Mithril Bar", "league": 1 },
+    { "minPrice": 31994, "itemID": 205, "name": "Adamantite Bar", "league": 1 },
+    { "minPrice": 24949, "itemID": 206, "name": "Runite Bar", "league": 1 },
+    { "minPrice": 68700, "itemID": 207, "name": "Stygian Bar", "league": 1 },
+    {
+      "minPrice": 145000,
+      "itemID": 208,
+      "name": "Chaotic Crystal",
+      "league": 1
+    },
+    { "minPrice": 37000, "itemID": 209, "name": "Obsidian Glass", "league": 1 },
+    { "minPrice": 1100, "itemID": 210, "name": "Golem Marrow", "league": 1 },
+    { "minPrice": 15000000, "itemID": 211, "name": "Chaos Stone", "league": 1 },
+    {
+      "minPrice": 28500000,
+      "itemID": 212,
+      "name": "Living Shard",
+      "league": 1
+    },
+    {
+      "minPrice": 50000000,
+      "itemID": 212,
+      "name": "Living Shard",
+      "league": 10
+    },
+    { "minPrice": 2600000, "itemID": 213, "name": "Runed Stone", "league": 1 },
+    {
+      "minPrice": 20000000,
+      "itemID": 213,
+      "name": "Runed Stone",
+      "league": 10
+    },
+    { "minPrice": 17777777, "itemID": 214, "name": "Magma Core", "league": 1 },
+    { "minPrice": 40000000, "itemID": 214, "name": "Magma Core", "league": 10 },
+    {
+      "minPrice": 1690000,
+      "itemID": 215,
+      "name": "Heavy Chaos Shard",
+      "league": 1
+    },
+    {
+      "minPrice": 20000000,
+      "itemID": 215,
+      "name": "Heavy Chaos Shard",
+      "league": 10
+    },
+    {
+      "minPrice": 8888888,
+      "itemID": 216,
+      "name": "Worn Ancient Splinter",
+      "league": 1
+    },
+    {
+      "minPrice": 3150000,
+      "itemID": 217,
+      "name": "Royal Ice Shard",
+      "league": 1
+    },
+    { "minPrice": 100, "itemID": 301, "name": "Branch", "league": 1 },
+    { "minPrice": 200, "itemID": 302, "name": "Log", "league": 1 },
+    { "minPrice": 3500, "itemID": 302, "name": "Log", "league": 10 },
+    { "minPrice": 767, "itemID": 303, "name": "Oak Log", "league": 1 },
+    { "minPrice": 777, "itemID": 304, "name": "Willow Log", "league": 1 },
+    { "minPrice": 2500, "itemID": 304, "name": "Willow Log", "league": 10 },
+    { "minPrice": 2016, "itemID": 305, "name": "Maple Log", "league": 1 },
+    { "minPrice": 5399, "itemID": 306, "name": "Yew Log", "league": 1 },
+    { "minPrice": 14499, "itemID": 306, "name": "Yew Log", "league": 10 },
+    { "minPrice": 20997, "itemID": 307, "name": "Elder Log", "league": 1 },
+    { "minPrice": 7707, "itemID": 400, "name": "Sapphire", "league": 1 },
+    { "minPrice": 200000, "itemID": 400, "name": "Sapphire", "league": 10 },
+    { "minPrice": 14874, "itemID": 401, "name": "Emerald", "league": 1 },
+    { "minPrice": 500000, "itemID": 401, "name": "Emerald", "league": 10 },
+    { "minPrice": 59890, "itemID": 402, "name": "Ruby", "league": 1 },
+    { "minPrice": 98896, "itemID": 403, "name": "Diamond", "league": 1 },
+    { "minPrice": 555554, "itemID": 404, "name": "Black Opal", "league": 1 },
+    { "minPrice": 1499999, "itemID": 404, "name": "Black Opal", "league": 10 },
+    { "minPrice": 2995, "itemID": 405, "name": "Runic Etchant", "league": 1 },
+    {
+      "minPrice": 3800,
+      "itemID": 406,
+      "name": "Corrupted Substrate",
+      "league": 1
+    },
+    { "minPrice": 2000, "itemID": 407, "name": "Reactive Powder", "league": 1 },
+    { "minPrice": 3800, "itemID": 408, "name": "Polishing Paste", "league": 1 },
+    {
+      "minPrice": 9700,
+      "itemID": 409,
+      "name": "Sanguine Infusion",
+      "league": 1
+    },
+    { "minPrice": 399999, "itemID": 500, "name": "Air Talisman", "league": 1 },
+    {
+      "minPrice": 400000,
+      "itemID": 501,
+      "name": "Earth Talisman",
+      "league": 1
+    },
+    {
+      "minPrice": 1500000,
+      "itemID": 502,
+      "name": "Fire Talisman",
+      "league": 1
+    },
+    {
+      "minPrice": 500000,
+      "itemID": 503,
+      "name": "Water Talisman",
+      "league": 1
+    },
+    {
+      "minPrice": 499999,
+      "itemID": 504,
+      "name": "Blood Talisman",
+      "league": 1
+    },
+    {
+      "minPrice": 1299900,
+      "itemID": 505,
+      "name": "Death Talisman",
+      "league": 1
+    },
+    {
+      "minPrice": 250000,
+      "itemID": 506,
+      "name": "Chaos Talisman",
+      "league": 1
+    },
+    {
+      "minPrice": 499999,
+      "itemID": 507,
+      "name": "Nature Talisman",
+      "league": 1
+    },
+    { "minPrice": 500000, "itemID": 508, "name": "Mind Talisman", "league": 1 },
+    {
+      "minPrice": 888888,
+      "itemID": 509,
+      "name": "Cosmic Talisman",
+      "league": 1
+    },
+    { "minPrice": 777, "itemID": 510, "name": "Air Rune", "league": 1 },
+    { "minPrice": 660, "itemID": 511, "name": "Earth Rune", "league": 1 },
+    { "minPrice": 1313, "itemID": 512, "name": "Fire Rune", "league": 1 },
+    { "minPrice": 1450, "itemID": 513, "name": "Water Rune", "league": 1 },
+    { "minPrice": 1252, "itemID": 514, "name": "Blood Rune", "league": 1 },
+    { "minPrice": 988, "itemID": 515, "name": "Death Rune", "league": 1 },
+    { "minPrice": 665, "itemID": 516, "name": "Chaos Rune", "league": 1 },
+    { "minPrice": 1100, "itemID": 517, "name": "Nature Rune", "league": 1 },
+    { "minPrice": 989, "itemID": 518, "name": "Mind Rune", "league": 1 },
+    { "minPrice": 664, "itemID": 519, "name": "Cosmic Rune", "league": 1 },
+    {
+      "minPrice": 1794,
+      "itemID": 550,
+      "name": "Basic Runic Dust",
+      "league": 1
+    },
+    {
+      "minPrice": 7698,
+      "itemID": 551,
+      "name": "Unusual Runic Dust",
+      "league": 1
+    },
+    {
+      "minPrice": 73994,
+      "itemID": 552,
+      "name": "Singular Runic Dust",
+      "league": 1
+    },
+    {
+      "minPrice": 84975,
+      "itemID": 553,
+      "name": "Prime Runic Dust",
+      "league": 1
+    },
+    {
+      "minPrice": 344999,
+      "itemID": 554,
+      "name": "Mythical Runic Dust",
+      "league": 1
+    },
+    {
+      "minPrice": 64999,
+      "itemID": 555,
+      "name": "Common Gear Scraps",
+      "league": 1
+    },
+    {
+      "minPrice": 69000,
+      "itemID": 556,
+      "name": "Uncommon Gear Scraps",
+      "league": 1
+    },
+    {
+      "minPrice": 310000,
+      "itemID": 557,
+      "name": "Rare Gear Scraps",
+      "league": 1
+    },
+    {
+      "minPrice": 3600000,
+      "itemID": 558,
+      "name": "Epic Gear Scraps",
+      "league": 1
+    },
+    {
+      "minPrice": 48000000,
+      "itemID": 559,
+      "name": "Legendary Gear Scraps",
+      "league": 1
+    },
+    { "minPrice": 19000, "itemID": 600, "name": "Bronze Pickaxe", "league": 1 },
+    { "minPrice": 150000, "itemID": 601, "name": "Iron Pickaxe", "league": 1 },
+    {
+      "minPrice": 360000,
+      "itemID": 602,
+      "name": "Mithril Pickaxe",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 604,
+      "name": "Runite Pickaxe",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 605,
+      "name": "Stygian Pickaxe",
+      "league": 1
+    },
+    { "minPrice": 38000, "itemID": 611, "name": "Iron Hatchet", "league": 1 },
+    {
+      "minPrice": 450000,
+      "itemID": 612,
+      "name": "Mithril Hatchet",
+      "league": 1
+    },
+    {
+      "minPrice": 35555555,
+      "itemID": 614,
+      "name": "Runite Hatchet",
+      "league": 1
+    },
+    { "minPrice": 189000, "itemID": 620, "name": "Sapphire Ring", "league": 1 },
+    { "minPrice": 399999, "itemID": 624, "name": "Ruby Ring", "league": 1 },
+    { "minPrice": 399999, "itemID": 625, "name": "Ruby Necklace", "league": 1 },
+    { "minPrice": 500000, "itemID": 626, "name": "Diamond Ring", "league": 1 },
+    {
+      "minPrice": 999999999,
+      "itemID": 628,
+      "name": "Prismatic Necklace",
+      "league": 1
+    },
+    {
+      "minPrice": 469999998,
+      "itemID": 629,
+      "name": "Prismatic Ring",
+      "league": 1
+    },
+    {
+      "minPrice": 1250000,
+      "itemID": 630,
+      "name": "Black Opal Ring",
+      "league": 1
+    },
+    {
+      "minPrice": 1400000,
+      "itemID": 631,
+      "name": "Black Opal Necklace",
+      "league": 1
+    },
+    { "minPrice": 432100, "itemID": 640, "name": "Gold Ring", "league": 1 },
+    { "minPrice": 444444, "itemID": 641, "name": "Gold Necklace", "league": 1 },
+    {
+      "minPrice": 499999,
+      "itemID": 643,
+      "name": "Ancient Nature Amulet",
+      "league": 1
+    },
+    {
+      "minPrice": 1999998,
+      "itemID": 644,
+      "name": "Ancient Fire Amulet",
+      "league": 1
+    },
+    {
+      "minPrice": 28999999,
+      "itemID": 645,
+      "name": "Ancient Water Amulet",
+      "league": 1
+    },
+    {
+      "minPrice": 19999999,
+      "itemID": 646,
+      "name": "Ancient Blood Amulet",
+      "league": 1
+    },
+    {
+      "minPrice": 24000000,
+      "itemID": 647,
+      "name": "Ancient Air Amulet",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 648,
+      "name": "Ancient Chaos Amulet",
+      "league": 1
+    },
+    { "minPrice": 25000, "itemID": 660, "name": "Bronze Hoe", "league": 1 },
+    { "minPrice": 500000, "itemID": 662, "name": "Mithril Hoe", "league": 1 },
+    { "minPrice": 1000000, "itemID": 662, "name": "Mithril Hoe", "league": 10 },
+    { "minPrice": 100000000, "itemID": 664, "name": "Runite Hoe", "league": 1 },
+    {
+      "minPrice": 175000000,
+      "itemID": 665,
+      "name": "Stygian Hoe",
+      "league": 1
+    },
+    {
+      "minPrice": 95000000,
+      "itemID": 665,
+      "name": "Stygian Hoe",
+      "league": 10
+    },
+    { "minPrice": 4500000, "itemID": 670, "name": "Runite Tongs", "league": 1 },
+    {
+      "minPrice": 50000000,
+      "itemID": 671,
+      "name": "Stygian Tongs",
+      "league": 1
+    },
+    {
+      "minPrice": 84999,
+      "itemID": 677,
+      "name": "Apprentice Runic Chisel",
+      "league": 1
+    },
+    {
+      "minPrice": 3000000,
+      "itemID": 678,
+      "name": "Journeyman Runic Chisel",
+      "league": 1
+    },
+    {
+      "minPrice": 15000000,
+      "itemID": 679,
+      "name": "Master Runic Chisel",
+      "league": 1
+    },
+    { "minPrice": 2000, "itemID": 690, "name": "Fishing Net", "league": 1 },
+    {
+      "minPrice": 39999,
+      "itemID": 691,
+      "name": "Fly Fishing Rod",
+      "league": 1
+    },
+    { "minPrice": 100000000000, "itemID": 692, "name": "Cage", "league": 1 },
+    { "minPrice": 80, "itemID": 700, "name": "Feather", "league": 1 },
+    { "minPrice": 7500, "itemID": 701, "name": "Fish Oil", "league": 1 },
+    { "minPrice": 50000, "itemID": 702, "name": "Pyre Log", "league": 1 },
+    {
+      "minPrice": 120000,
+      "itemID": 705,
+      "name": "Pyre Maple Log",
+      "league": 10
+    },
+    { "minPrice": 100000, "itemID": 706, "name": "Pyre Yew Log", "league": 1 },
+    {
+      "minPrice": 180000,
+      "itemID": 707,
+      "name": "Pyre Elder Log",
+      "league": 1
+    },
+    {
+      "minPrice": 5000,
+      "itemID": 708,
+      "name": "Inert Heat Stone",
+      "league": 1
+    },
+    {
+      "minPrice": 800000,
+      "itemID": 709,
+      "name": "Charged Heat Stone",
+      "league": 1
+    },
+    { "minPrice": 2500, "itemID": 800, "name": "Ichor", "league": 1 },
+    {
+      "minPrice": 4500000,
+      "itemID": 801,
+      "name": "Phoenix's Feather",
+      "league": 1
+    },
+    { "minPrice": 100000, "itemID": 900, "name": "Geode", "league": 1 },
+    { "minPrice": 59000, "itemID": 901, "name": "Bird's Nest", "league": 1 },
+    {
+      "minPrice": 289999,
+      "itemID": 902,
+      "name": "Sunken Treasure",
+      "league": 1
+    },
+    { "minPrice": 128000, "itemID": 903, "name": "Satchel", "league": 1 },
+    {
+      "minPrice": 14499999,
+      "itemID": 904,
+      "name": "Ancient Treasure",
+      "league": 1
+    },
+    {
+      "minPrice": 1899999,
+      "itemID": 905,
+      "name": "Greater Geode",
+      "league": 1
+    },
+    {
+      "minPrice": 1300000,
+      "itemID": 906,
+      "name": "Greater Bird's Nest",
+      "league": 1
+    },
+    {
+      "minPrice": 100000,
+      "itemID": 1000,
+      "name": "Bronze Scimitar",
+      "league": 10
+    },
+    {
+      "minPrice": 49999,
+      "itemID": 1001,
+      "name": "Bronze Battleaxe",
+      "league": 1
+    },
+    {
+      "minPrice": 22500,
+      "itemID": 1002,
+      "name": "Bronze Daggers",
+      "league": 1
+    },
+    {
+      "minPrice": 250000,
+      "itemID": 1002,
+      "name": "Bronze Daggers",
+      "league": 10
+    },
+    { "minPrice": 29998, "itemID": 1006, "name": "Iron Daggers", "league": 1 },
+    {
+      "minPrice": 250000,
+      "itemID": 1008,
+      "name": "Obsidian Scimitar",
+      "league": 1
+    },
+    {
+      "minPrice": 280000,
+      "itemID": 1009,
+      "name": "Obsidian Battleaxe",
+      "league": 1
+    },
+    {
+      "minPrice": 300000,
+      "itemID": 1010,
+      "name": "Obsidian Daggers",
+      "league": 1
+    },
+    {
+      "minPrice": 350000,
+      "itemID": 1011,
+      "name": "Obsidian Greatsword",
+      "league": 1
+    },
+    {
+      "minPrice": 1000000,
+      "itemID": 1018,
+      "name": "Adamantite Daggers",
+      "league": 10
+    },
+    {
+      "minPrice": 40000000,
+      "itemID": 1020,
+      "name": "Runite Scimitar",
+      "league": 1
+    },
+    { "minPrice": 100000, "itemID": 1050, "name": "Bronze Helm", "league": 10 },
+    { "minPrice": 30000, "itemID": 1051, "name": "Iron Helm", "league": 1 },
+    {
+      "minPrice": 375000,
+      "itemID": 1052,
+      "name": "Obsidian Helm",
+      "league": 1
+    },
+    {
+      "minPrice": 900000,
+      "itemID": 1054,
+      "name": "Adamantite Helm",
+      "league": 1
+    },
+    {
+      "minPrice": 40000,
+      "itemID": 1060,
+      "name": "Bronze Full Helm",
+      "league": 1
+    },
+    {
+      "minPrice": 50000,
+      "itemID": 1061,
+      "name": "Iron Full Helm",
+      "league": 1
+    },
+    {
+      "minPrice": 100000,
+      "itemID": 1061,
+      "name": "Iron Full Helm",
+      "league": 10
+    },
+    {
+      "minPrice": 155000,
+      "itemID": 1062,
+      "name": "Obsidian Full Helm",
+      "league": 1
+    },
+    { "minPrice": 25000, "itemID": 1070, "name": "Bronze Shield", "league": 1 },
+    {
+      "minPrice": 400000,
+      "itemID": 1072,
+      "name": "Obsidian Shield",
+      "league": 1
+    },
+    {
+      "minPrice": 3000000,
+      "itemID": 1073,
+      "name": "Mithril Shield",
+      "league": 1
+    },
+    {
+      "minPrice": 8000000,
+      "itemID": 1074,
+      "name": "Adamantite Shield",
+      "league": 1
+    },
+    {
+      "minPrice": 3999998,
+      "itemID": 1075,
+      "name": "Runite Shield",
+      "league": 1
+    },
+    { "minPrice": 5000000, "itemID": 1077, "name": "Castle Door", "league": 1 },
+    {
+      "minPrice": 28000,
+      "itemID": 1090,
+      "name": "Bronze Breastplate",
+      "league": 1
+    },
+    {
+      "minPrice": 125000,
+      "itemID": 1091,
+      "name": "Bronze Chainmail",
+      "league": 10
+    },
+    {
+      "minPrice": 75000,
+      "itemID": 1092,
+      "name": "Iron Breastplate",
+      "league": 1
+    },
+    {
+      "minPrice": 100000,
+      "itemID": 1092,
+      "name": "Iron Breastplate",
+      "league": 10
+    },
+    {
+      "minPrice": 150000,
+      "itemID": 1093,
+      "name": "Iron Chainmail",
+      "league": 1
+    },
+    {
+      "minPrice": 240000,
+      "itemID": 1094,
+      "name": "Obsidian Breastplate",
+      "league": 1
+    },
+    {
+      "minPrice": 550000,
+      "itemID": 1095,
+      "name": "Obsidian Chainmail",
+      "league": 1
+    },
+    {
+      "minPrice": 20000,
+      "itemID": 1110,
+      "name": "Bronze Plate Leggings",
+      "league": 1
+    },
+    {
+      "minPrice": 100000,
+      "itemID": 1110,
+      "name": "Bronze Plate Leggings",
+      "league": 10
+    },
+    {
+      "minPrice": 310000,
+      "itemID": 1112,
+      "name": "Obsidian Plate Leggings",
+      "league": 1
+    },
+    {
+      "minPrice": 500000,
+      "itemID": 1132,
+      "name": "Obsidian Boots",
+      "league": 1
+    },
+    {
+      "minPrice": 1000000,
+      "itemID": 1159,
+      "name": "Thick Hide Body",
+      "league": 10
+    },
+    {
+      "minPrice": 7500000,
+      "itemID": 1162,
+      "name": "Chitin Body",
+      "league": 10
+    },
+    {
+      "minPrice": 1000000000,
+      "itemID": 1169,
+      "name": "Chitin Coif",
+      "league": 1
+    },
+    {
+      "minPrice": 7500000,
+      "itemID": 1169,
+      "name": "Chitin Coif",
+      "league": 10
+    },
+    {
+      "minPrice": 7500000,
+      "itemID": 1176,
+      "name": "Chitin Trousers",
+      "league": 10
+    },
+    {
+      "minPrice": 950000,
+      "itemID": 1183,
+      "name": "Greater Imbued Robe Top",
+      "league": 1
+    },
+    {
+      "minPrice": 650000,
+      "itemID": 1197,
+      "name": "Greater Imbued Robe Bottom",
+      "league": 1
+    },
+    {
+      "minPrice": 20000,
+      "itemID": 1209,
+      "name": "Willow Longbow",
+      "league": 1
+    },
+    { "minPrice": 9000000, "itemID": 1233, "name": "Elder Wand", "league": 1 },
+    { "minPrice": 20000, "itemID": 1237, "name": "Imbued Staff", "league": 1 },
+    {
+      "minPrice": 9000000,
+      "itemID": 1239,
+      "name": "Greater Imbued Staff",
+      "league": 1
+    },
+    { "minPrice": 150000, "itemID": 1241, "name": "Arcane Notes", "league": 1 },
+    { "minPrice": 4000000, "itemID": 1247, "name": "Elder Focus", "league": 1 },
+    {
+      "minPrice": 333333333,
+      "itemID": 1300,
+      "name": "Blademaster's Shroud",
+      "league": 1
+    },
+    {
+      "minPrice": 12000000,
+      "itemID": 1301,
+      "name": "Blademaster's Memory",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 1302,
+      "name": "Royal Banner",
+      "league": 1
+    },
+    { "minPrice": 5750000, "itemID": 1303, "name": "Torn Banner", "league": 1 },
+    {
+      "minPrice": 9250000,
+      "itemID": 1309,
+      "name": "Necromancer's Remains",
+      "league": 1
+    },
+    {
+      "minPrice": 4999998,
+      "itemID": 1310,
+      "name": "Royal Elven Remnants",
+      "league": 1
+    },
+    {
+      "minPrice": 500000,
+      "itemID": 1311,
+      "name": "Gargoyle Shards",
+      "league": 1
+    },
+    {
+      "minPrice": 449999999,
+      "itemID": 1312,
+      "name": "Mantis Shrimp Carapace",
+      "league": 1
+    },
+    {
+      "minPrice": 449999999,
+      "itemID": 1313,
+      "name": "Mantis Shrimp Greaves",
+      "league": 1
+    },
+    {
+      "minPrice": 449999999,
+      "itemID": 1314,
+      "name": "Mantis Shrimp Helm",
+      "league": 1
+    },
+    {
+      "minPrice": 449999999,
+      "itemID": 1316,
+      "name": "Mantis Shrimp Gauntlets",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 1317,
+      "name": "Void-Blessed Shrimp",
+      "league": 1
+    },
+    {
+      "minPrice": 1500000000,
+      "itemID": 1319,
+      "name": "Personal Cannon",
+      "league": 1
+    },
+    {
+      "minPrice": 9999997,
+      "itemID": 1320,
+      "name": "Illegal Gun Parts",
+      "league": 1
+    },
+    { "minPrice": 9999, "itemID": 1451, "name": "Amateur Ammo", "league": 1 },
+    { "minPrice": 8488, "itemID": 1455, "name": "Master Ammo", "league": 1 },
+    {
+      "minPrice": 17450,
+      "itemID": 1456,
+      "name": "Experimental Ammo",
+      "league": 1
+    },
+    { "minPrice": 99998, "itemID": 1457, "name": "Void Ammo", "league": 1 },
+    {
+      "minPrice": 5500,
+      "itemID": 1460,
+      "name": "High-Grade Whetstone",
+      "league": 1
+    },
+    {
+      "minPrice": 2000,
+      "itemID": 1463,
+      "name": "Greater Imbued Charm",
+      "league": 1
+    },
+    {
+      "minPrice": 4600,
+      "itemID": 1464,
+      "name": "Ancient Imbued Charm",
+      "league": 1
+    },
+    {
+      "minPrice": 11800,
+      "itemID": 1465,
+      "name": "Dwarven Whetstone",
+      "league": 1
+    },
+    { "minPrice": 10000, "itemID": 1466, "name": "Elven Ammo", "league": 1 },
+    {
+      "minPrice": 25000000000,
+      "itemID": 1501,
+      "name": "Snowman Head",
+      "league": 1
+    },
+    { "minPrice": 35000000000, "itemID": 1502, "name": "Tophat", "league": 1 },
+    { "minPrice": 399000, "itemID": 1503, "name": "Lesser Ladle", "league": 1 },
+    {
+      "minPrice": 1999999,
+      "itemID": 1503,
+      "name": "Lesser Ladle",
+      "league": 10
+    },
+    { "minPrice": 150000000, "itemID": 1504, "name": "Ladle", "league": 1 },
+    {
+      "minPrice": 40000000,
+      "itemID": 1505,
+      "name": "Greater Ladle",
+      "league": 1
+    },
+    { "minPrice": 9999999, "itemID": 1506, "name": "Moss Maul", "league": 1 },
+    {
+      "minPrice": 4000000,
+      "itemID": 1507,
+      "name": "Modified Diving Gloves",
+      "league": 1
+    },
+    {
+      "minPrice": 11333332,
+      "itemID": 1508,
+      "name": "King's Crown",
+      "league": 1
+    },
+    { "minPrice": 14444444, "itemID": 1509, "name": "Fire Orb", "league": 1 },
+    {
+      "minPrice": 2499700,
+      "itemID": 1510,
+      "name": "Kalanahmatti",
+      "league": 1
+    },
+    { "minPrice": 98000000, "itemID": 1512, "name": "Zero Edge", "league": 1 },
+    { "minPrice": 50000000, "itemID": 1512, "name": "Zero Edge", "league": 10 },
+    {
+      "minPrice": 100000000,
+      "itemID": 1513,
+      "name": "Chaos Crest",
+      "league": 1
+    },
+    {
+      "minPrice": 85000000,
+      "itemID": 1513,
+      "name": "Chaos Crest",
+      "league": 10
+    },
+    {
+      "minPrice": 17700000,
+      "itemID": 1514,
+      "name": "Forgotten Sadness",
+      "league": 1
+    },
+    {
+      "minPrice": 22222222,
+      "itemID": 1515,
+      "name": "Forgotten Madness",
+      "league": 1
+    },
+    {
+      "minPrice": 22222222,
+      "itemID": 1516,
+      "name": "Forgotten Anger",
+      "league": 1
+    },
+    {
+      "minPrice": 68000000,
+      "itemID": 1517,
+      "name": "Gargoyle Chainmail",
+      "league": 1
+    },
+    {
+      "minPrice": 35000000,
+      "itemID": 1518,
+      "name": "Gargoyle Legs",
+      "league": 1
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 1519,
+      "name": "Gargoyle Boots",
+      "league": 1
+    },
+    {
+      "minPrice": 25000000,
+      "itemID": 1520,
+      "name": "Gargoyle Helm",
+      "league": 1
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 1520,
+      "name": "Gargoyle Helm",
+      "league": 10
+    },
+    {
+      "minPrice": 25000000,
+      "itemID": 1521,
+      "name": "Gargoyle Shield",
+      "league": 1
+    },
+    {
+      "minPrice": 7500000,
+      "itemID": 1522,
+      "name": "Gargoyle Falchion",
+      "league": 1
+    },
+    {
+      "minPrice": 6000000,
+      "itemID": 1523,
+      "name": "Gargoyle Daggers",
+      "league": 1
+    },
+    {
+      "minPrice": 99999998,
+      "itemID": 1524,
+      "name": "Gargoyle Glaive",
+      "league": 1
+    },
+    {
+      "minPrice": 597000000,
+      "itemID": 1525,
+      "name": "Infernal Lance",
+      "league": 1
+    },
+    {
+      "minPrice": 6000000,
+      "itemID": 1526,
+      "name": "Black Knight Great Helm",
+      "league": 1
+    },
+    {
+      "minPrice": 4499999,
+      "itemID": 1527,
+      "name": "Chorus of Souls",
+      "league": 1
+    },
+    {
+      "minPrice": 17500000,
+      "itemID": 1528,
+      "name": "Decayed Cloak",
+      "league": 1
+    },
+    {
+      "minPrice": 200000000,
+      "itemID": 1530,
+      "name": "Mysterious Man",
+      "league": 1
+    },
+    {
+      "minPrice": 290000000,
+      "itemID": 1531,
+      "name": "Corny Joke",
+      "league": 1
+    },
+    {
+      "minPrice": 200000000,
+      "itemID": 1532,
+      "name": "Death Metal Wig",
+      "league": 1
+    },
+    {
+      "minPrice": 4250000,
+      "itemID": 1544,
+      "name": "Naga's Bracelet",
+      "league": 1
+    },
+    {
+      "minPrice": 29777767,
+      "itemID": 1547,
+      "name": "Shapeless Scythe",
+      "league": 1
+    },
+    {
+      "minPrice": 19718888,
+      "itemID": 1548,
+      "name": "Giant King's Jewel",
+      "league": 1
+    },
+    { "minPrice": 199000, "itemID": 1549, "name": "Giant Scraps", "league": 1 },
+    {
+      "minPrice": 99000000,
+      "itemID": 1550,
+      "name": "World Walkers",
+      "league": 1
+    },
+    {
+      "minPrice": 7000000,
+      "itemID": 1553,
+      "name": "Crystal Mace",
+      "league": 1
+    },
+    {
+      "minPrice": 19999999,
+      "itemID": 1555,
+      "name": "Mantle of Flame",
+      "league": 1
+    },
+    {
+      "minPrice": 80000000,
+      "itemID": 1556,
+      "name": "Bestial Shawl",
+      "league": 1
+    },
+    {
+      "minPrice": 398999,
+      "itemID": 1558,
+      "name": "Shrimp Scraps",
+      "league": 1
+    },
+    {
+      "minPrice": 10000000,
+      "itemID": 1559,
+      "name": "Black Knight Titan's Helm",
+      "league": 1
+    },
+    { "minPrice": 20500000, "itemID": 1560, "name": "Elven Hood", "league": 1 },
+    {
+      "minPrice": 18000000,
+      "itemID": 1561,
+      "name": "Elven Heavy Armor",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 1562,
+      "name": "Elven Leggings",
+      "league": 1
+    },
+    {
+      "minPrice": 10000000,
+      "itemID": 1563,
+      "name": "Elven Boots",
+      "league": 1
+    },
+    {
+      "minPrice": 23900000,
+      "itemID": 1564,
+      "name": "Searing Ladle",
+      "league": 1
+    },
+    {
+      "minPrice": 1099999,
+      "itemID": 1565,
+      "name": "Black Knight's Gauntlets",
+      "league": 1
+    },
+    {
+      "minPrice": 1400000,
+      "itemID": 1566,
+      "name": "Bestial Dagger",
+      "league": 1
+    },
+    {
+      "minPrice": 9000000,
+      "itemID": 1566,
+      "name": "Bestial Dagger",
+      "league": 10
+    },
+    {
+      "minPrice": 69999999,
+      "itemID": 1567,
+      "name": "Empowered Bestial Dagger",
+      "league": 1
+    },
+    {
+      "minPrice": 1400000,
+      "itemID": 1568,
+      "name": "Bestial Defender",
+      "league": 1
+    },
+    {
+      "minPrice": 9000000,
+      "itemID": 1568,
+      "name": "Bestial Defender",
+      "league": 10
+    },
+    {
+      "minPrice": 64999998,
+      "itemID": 1569,
+      "name": "Empowered Bestial Defender",
+      "league": 1
+    },
+    {
+      "minPrice": 49420999,
+      "itemID": 1570,
+      "name": "Elven King's Longbow",
+      "league": 1
+    },
+    {
+      "minPrice": 99000000,
+      "itemID": 1571,
+      "name": "Ancient Trident",
+      "league": 1
+    },
+    { "minPrice": 3000000, "itemID": 1572, "name": "Fishtail", "league": 1 },
+    { "minPrice": 6300000, "itemID": 1573, "name": "Razorfin", "league": 1 },
+    {
+      "minPrice": 37777777,
+      "itemID": 1574,
+      "name": "Elven Quiver",
+      "league": 1
+    },
+    {
+      "minPrice": 2555555,
+      "itemID": 1575,
+      "name": "Magic Quiver",
+      "league": 1
+    },
+    {
+      "minPrice": 2999999,
+      "itemID": 1576,
+      "name": "Defender's Band",
+      "league": 1
+    },
+    {
+      "minPrice": 2999999,
+      "itemID": 1577,
+      "name": "Defender's Pendant",
+      "league": 1
+    },
+    {
+      "minPrice": 20000000,
+      "itemID": 1577,
+      "name": "Defender's Pendant",
+      "league": 10
+    },
+    {
+      "minPrice": 3999999,
+      "itemID": 1578,
+      "name": "Scaled Circuit",
+      "league": 1
+    },
+    {
+      "minPrice": 99000000,
+      "itemID": 1579,
+      "name": "Devourer's Band",
+      "league": 1
+    },
+    {
+      "minPrice": 18998999,
+      "itemID": 1580,
+      "name": "Slayer's Pendant",
+      "league": 1
+    },
+    {
+      "minPrice": 19800000,
+      "itemID": 1581,
+      "name": "Alacrity Pendant",
+      "league": 1
+    },
+    {
+      "minPrice": 24400000,
+      "itemID": 1582,
+      "name": "Ring of Taxes",
+      "league": 1
+    },
+    {
+      "minPrice": 39899999,
+      "itemID": 1583,
+      "name": "Wrath and War",
+      "league": 1
+    },
+    {
+      "minPrice": 49888888,
+      "itemID": 1584,
+      "name": "Shrimp Scepter",
+      "league": 1
+    },
+    {
+      "minPrice": 107777777,
+      "itemID": 1585,
+      "name": "Shrimp Stinger",
+      "league": 1
+    },
+    {
+      "minPrice": 59999999,
+      "itemID": 1586,
+      "name": "Shrimp Tail",
+      "league": 1
+    },
+    { "minPrice": 14399000, "itemID": 1587, "name": "Shrimp Eye", "league": 1 },
+    {
+      "minPrice": 15700000,
+      "itemID": 1588,
+      "name": "Hunter's Band",
+      "league": 1
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 1588,
+      "name": "Hunter's Band",
+      "league": 10
+    },
+    {
+      "minPrice": 20000000,
+      "itemID": 1589,
+      "name": "Dwarven Hammer Necklace",
+      "league": 1
+    },
+    {
+      "minPrice": 16900000,
+      "itemID": 1590,
+      "name": "Ancient Token",
+      "league": 1
+    },
+    {
+      "minPrice": 14200000,
+      "itemID": 1591,
+      "name": "Ancient Ring",
+      "league": 1
+    },
+    { "minPrice": 1234567, "itemID": 1592, "name": "Golem Ring", "league": 1 },
+    {
+      "minPrice": 10000000,
+      "itemID": 1594,
+      "name": "Elven Light Armor",
+      "league": 1
+    },
+    {
+      "minPrice": 10000000000,
+      "itemID": 1595,
+      "name": "Elven Hat",
+      "league": 1
+    },
+    {
+      "minPrice": 4679000,
+      "itemID": 1596,
+      "name": "Sylvan Staff",
+      "league": 1
+    },
+    { "minPrice": 999888, "itemID": 1600, "name": "Scroll", "league": 1 },
+    {
+      "minPrice": 1399999,
+      "itemID": 1601,
+      "name": "Scroll of Embers",
+      "league": 1
+    },
+    {
+      "minPrice": 11500000,
+      "itemID": 1603,
+      "name": "Scroll of the Scholar",
+      "league": 1
+    },
+    {
+      "minPrice": 1500000,
+      "itemID": 1604,
+      "name": "Scroll of Gathering",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 1605,
+      "name": "Scroll of Superheating",
+      "league": 1
+    },
+    {
+      "minPrice": 495000,
+      "itemID": 1606,
+      "name": "Scroll of Pyromancy",
+      "league": 1
+    },
+    {
+      "minPrice": 2999999,
+      "itemID": 1608,
+      "name": "Scroll of Haste",
+      "league": 1
+    },
+    {
+      "minPrice": 4500000,
+      "itemID": 1611,
+      "name": "Scroll of Critical Strike",
+      "league": 1
+    },
+    {
+      "minPrice": 999999,
+      "itemID": 1613,
+      "name": "Scroll of Accuracy",
+      "league": 1
+    },
+    {
+      "minPrice": 1499999,
+      "itemID": 1616,
+      "name": "Scroll of Healing",
+      "league": 1
+    },
+    {
+      "minPrice": 100000,
+      "itemID": 1617,
+      "name": "Scroll of Weakening",
+      "league": 1
+    },
+    {
+      "minPrice": 2899999,
+      "itemID": 1618,
+      "name": "Scroll of Reinforcement",
+      "league": 1
+    },
+    {
+      "minPrice": 1990000,
+      "itemID": 1619,
+      "name": "Scroll of Protection",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 1621,
+      "name": "Scroll of False Equilibrium",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 1622,
+      "name": "Scroll of Efficiency",
+      "league": 1
+    },
+    {
+      "minPrice": 3800000,
+      "itemID": 1623,
+      "name": "Scroll of Fishing",
+      "league": 1
+    },
+    {
+      "minPrice": 599999,
+      "itemID": 1624,
+      "name": "Scroll of Cooking",
+      "league": 1
+    },
+    {
+      "minPrice": 4100000,
+      "itemID": 1625,
+      "name": "Scroll of Crafting",
+      "league": 1
+    },
+    {
+      "minPrice": 3000000,
+      "itemID": 1627,
+      "name": "Scroll of Runecrafting",
+      "league": 1
+    },
+    {
+      "minPrice": 4799998,
+      "itemID": 1628,
+      "name": "Scroll of Chances",
+      "league": 1
+    },
+    {
+      "minPrice": 200000,
+      "itemID": 1629,
+      "name": "Scroll of the Shrimp Lord",
+      "league": 1
+    },
+    {
+      "minPrice": 2222222,
+      "itemID": 1630,
+      "name": "Scroll of Enlightenment",
+      "league": 1
+    },
+    {
+      "minPrice": 2000000,
+      "itemID": 1631,
+      "name": "Scroll of Prolonging",
+      "league": 1
+    },
+    {
+      "minPrice": 2999997,
+      "itemID": 1632,
+      "name": "Scroll of the Treasure Hunter",
+      "league": 1
+    },
+    {
+      "minPrice": 1100000,
+      "itemID": 1633,
+      "name": "Scroll of Inferno",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 1635,
+      "name": "Scroll of Nature",
+      "league": 1
+    },
+    {
+      "minPrice": 2750000,
+      "itemID": 1636,
+      "name": "Scroll of Root Digging",
+      "league": 1
+    },
+    {
+      "minPrice": 4999999,
+      "itemID": 1637,
+      "name": "Scroll of Patience",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 1641,
+      "name": "Scroll of Fertilizing",
+      "league": 1
+    },
+    {
+      "minPrice": 5555554,
+      "itemID": 1643,
+      "name": "Scroll of Fortitude",
+      "league": 1
+    },
+    {
+      "minPrice": 11500000,
+      "itemID": 1645,
+      "name": "Scroll of Reinforced Line",
+      "league": 1
+    },
+    {
+      "minPrice": 11250000,
+      "itemID": 1648,
+      "name": "Scroll of Oil Spill",
+      "league": 1
+    },
+    {
+      "minPrice": 4500000,
+      "itemID": 1650,
+      "name": "Scroll of the Master Chef",
+      "league": 1
+    },
+    {
+      "minPrice": 3800000,
+      "itemID": 1651,
+      "name": "Scroll of the Herbalist",
+      "league": 1
+    },
+    {
+      "minPrice": 2800000,
+      "itemID": 1652,
+      "name": "Scroll of Seed Harvesting",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 1653,
+      "name": "Scroll of Metallurgy",
+      "league": 1
+    },
+    {
+      "minPrice": 10200000,
+      "itemID": 1654,
+      "name": "Scroll of Pure Metals",
+      "league": 1
+    },
+    {
+      "minPrice": 4000000,
+      "itemID": 1656,
+      "name": "Scroll of the Fiber Finder",
+      "league": 1
+    },
+    {
+      "minPrice": 3500000,
+      "itemID": 1657,
+      "name": "Scroll of Archaeology",
+      "league": 1
+    },
+    {
+      "minPrice": 2222221,
+      "itemID": 1658,
+      "name": "Scroll of Endless Ammo",
+      "league": 1
+    },
+    {
+      "minPrice": 6999999,
+      "itemID": 1659,
+      "name": "Scroll of Rune Reserves",
+      "league": 1
+    },
+    {
+      "minPrice": 4999999,
+      "itemID": 1662,
+      "name": "Scroll of Recklessness",
+      "league": 1
+    },
+    {
+      "minPrice": 2800000,
+      "itemID": 1663,
+      "name": "Scroll of Engraving",
+      "league": 1
+    },
+    {
+      "minPrice": 4230000,
+      "itemID": 1664,
+      "name": "Scroll of Resistance",
+      "league": 1
+    },
+    {
+      "minPrice": 5500000,
+      "itemID": 1665,
+      "name": "Scroll of Supercooling",
+      "league": 1
+    },
+    {
+      "minPrice": 7590000,
+      "itemID": 1666,
+      "name": "Scroll of Dwarven Engineering",
+      "league": 1
+    },
+    {
+      "minPrice": 2222222,
+      "itemID": 1668,
+      "name": "Scroll of Convergence",
+      "league": 1
+    },
+    {
+      "minPrice": 4099999,
+      "itemID": 1670,
+      "name": "Scroll of Fibrous Fabrication",
+      "league": 1
+    },
+    {
+      "minPrice": 7500000,
+      "itemID": 1672,
+      "name": "Scroll of Forge Enhancement",
+      "league": 1
+    },
+    {
+      "minPrice": 7500000,
+      "itemID": 1673,
+      "name": "Scroll of Forge Maintenance",
+      "league": 1
+    },
+    {
+      "minPrice": 11000000,
+      "itemID": 1674,
+      "name": "Scroll of Leftovers",
+      "league": 1
+    },
+    {
+      "minPrice": 2222222,
+      "itemID": 1677,
+      "name": "Scroll of Scrapper",
+      "league": 1
+    },
+    {
+      "minPrice": 2222221,
+      "itemID": 1678,
+      "name": "Scroll of Immunity",
+      "league": 1
+    },
+    {
+      "minPrice": 3333333,
+      "itemID": 1679,
+      "name": "Scroll of Quick Study",
+      "league": 1
+    },
+    {
+      "minPrice": 200000,
+      "itemID": 1680,
+      "name": "Scroll of Elemental Accuracy",
+      "league": 1
+    },
+    {
+      "minPrice": 999999,
+      "itemID": 1681,
+      "name": "Scroll of Physical Accuracy",
+      "league": 1
+    },
+    {
+      "minPrice": 11000000,
+      "itemID": 1682,
+      "name": "Scroll of Fishy Fortune",
+      "league": 1
+    },
+    {
+      "minPrice": 4500000,
+      "itemID": 1686,
+      "name": "Scroll of Researcher's Boon",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 1688,
+      "name": "Scroll of Overgrowth",
+      "league": 1
+    },
+    {
+      "minPrice": 299999999,
+      "itemID": 1800,
+      "name": "Elven Royal Leggings",
+      "league": 1
+    },
+    {
+      "minPrice": 299999999,
+      "itemID": 1802,
+      "name": "Elven Royal Hat",
+      "league": 1
+    },
+    {
+      "minPrice": 119999900,
+      "itemID": 1803,
+      "name": "Infernal Chainmail",
+      "league": 1
+    },
+    {
+      "minPrice": 109999990,
+      "itemID": 1804,
+      "name": "Infernal Legs",
+      "league": 1
+    },
+    {
+      "minPrice": 199999999,
+      "itemID": 1806,
+      "name": "Symphony of Spirits",
+      "league": 1
+    },
+    {
+      "minPrice": 2222222,
+      "itemID": 1807,
+      "name": "Crown of Spikes",
+      "league": 1
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 1807,
+      "name": "Crown of Spikes",
+      "league": 10
+    },
+    { "minPrice": 38000000, "itemID": 1808, "name": "Dark Ring", "league": 1 },
+    {
+      "minPrice": 34444444,
+      "itemID": 1809,
+      "name": "Pendant of Virulence",
+      "league": 1
+    },
+    {
+      "minPrice": 2000000,
+      "itemID": 1815,
+      "name": "Militia Quiver",
+      "league": 1
+    },
+    {
+      "minPrice": 3000000,
+      "itemID": 1815,
+      "name": "Militia Quiver",
+      "league": 10
+    },
+    { "minPrice": 800000, "itemID": 1816, "name": "Rune Bag", "league": 1 },
+    {
+      "minPrice": 100000000000,
+      "itemID": 1817,
+      "name": "Goblin Club",
+      "league": 1
+    },
+    { "minPrice": 650000, "itemID": 1817, "name": "Goblin Club", "league": 10 },
+    {
+      "minPrice": 415000,
+      "itemID": 1818,
+      "name": "Demon Tooth Spear",
+      "league": 1
+    },
+    {
+      "minPrice": 44000,
+      "itemID": 1820,
+      "name": "Damaged Goblin Club",
+      "league": 1
+    },
+    {
+      "minPrice": 2000000,
+      "itemID": 1820,
+      "name": "Damaged Goblin Club",
+      "league": 10
+    },
+    {
+      "minPrice": 40000,
+      "itemID": 1821,
+      "name": "Sharp Demon Tooth",
+      "league": 1
+    },
+    {
+      "minPrice": 9000000,
+      "itemID": 1822,
+      "name": "Damaged Log Maul",
+      "league": 1
+    },
+    {
+      "minPrice": 2000000,
+      "itemID": 1822,
+      "name": "Damaged Log Maul",
+      "league": 10
+    },
+    {
+      "minPrice": 100000,
+      "itemID": 1823,
+      "name": "Soul Fragment",
+      "league": 1
+    },
+    {
+      "minPrice": 389999,
+      "itemID": 1823,
+      "name": "Soul Fragment",
+      "league": 10
+    },
+    {
+      "minPrice": 98750,
+      "itemID": 1824,
+      "name": "Damaged Militia Sling",
+      "league": 1
+    },
+    {
+      "minPrice": 2000000,
+      "itemID": 1824,
+      "name": "Damaged Militia Sling",
+      "league": 10
+    },
+    {
+      "minPrice": 1000000,
+      "itemID": 1825,
+      "name": "Damaged Shaman Staff",
+      "league": 1
+    },
+    {
+      "minPrice": 2000000,
+      "itemID": 1825,
+      "name": "Damaged Shaman Staff",
+      "league": 10
+    },
+    { "minPrice": 50000, "itemID": 1826, "name": "Militia Sling", "league": 1 },
+    {
+      "minPrice": 50000,
+      "itemID": 1826,
+      "name": "Militia Sling",
+      "league": 10
+    },
+    {
+      "minPrice": 55555555,
+      "itemID": 1828,
+      "name": "Shattered Forging Hammer",
+      "league": 1
+    },
+    {
+      "minPrice": 10844444,
+      "itemID": 1829,
+      "name": "Broken Hammer Head",
+      "league": 1
+    },
+    {
+      "minPrice": 10888888,
+      "itemID": 1830,
+      "name": "Giant Champion's Belt",
+      "league": 1
+    },
+    {
+      "minPrice": 5888887,
+      "itemID": 1831,
+      "name": "Spiked Cuffs",
+      "league": 1
+    },
+    {
+      "minPrice": 1620001,
+      "itemID": 1833,
+      "name": "Charred Pelt",
+      "league": 1
+    },
+    {
+      "minPrice": 4000000,
+      "itemID": 1833,
+      "name": "Charred Pelt",
+      "league": 10
+    },
+    {
+      "minPrice": 9999999,
+      "itemID": 1835,
+      "name": "Dormant Phoenix Egg",
+      "league": 1
+    },
+    { "minPrice": 2499, "itemID": 2000, "name": "Raw Chicken", "league": 1 },
+    { "minPrice": 349, "itemID": 2001, "name": "Raw Beef", "league": 1 },
+    { "minPrice": 8299, "itemID": 2009, "name": "Spider Legs", "league": 1 },
+    { "minPrice": 2999, "itemID": 2010, "name": "Goblin Brain", "league": 1 },
+    { "minPrice": 490, "itemID": 2012, "name": "Pepper", "league": 1 },
+    { "minPrice": 739, "itemID": 2013, "name": "Salt", "league": 1 },
+    { "minPrice": 295, "itemID": 2014, "name": "Ashes", "league": 1 },
+    { "minPrice": 295, "itemID": 2015, "name": "Sugar", "league": 1 },
+    { "minPrice": 900, "itemID": 2016, "name": "Honey", "league": 1 },
+    { "minPrice": 1100, "itemID": 2017, "name": "Milk", "league": 1 },
+    { "minPrice": 8997, "itemID": 2018, "name": "Butter", "league": 1 },
+    { "minPrice": 9999, "itemID": 2019, "name": "Egg", "league": 1 },
+    { "minPrice": 220, "itemID": 2020, "name": "Mushroom", "league": 1 },
+    { "minPrice": 599, "itemID": 2021, "name": "Carrot", "league": 1 },
+    { "minPrice": 325, "itemID": 2022, "name": "Chili Pepper", "league": 1 },
+    { "minPrice": 2398, "itemID": 2023, "name": "Potato", "league": 1 },
+    { "minPrice": 674, "itemID": 2024, "name": "Pumpkin", "league": 1 },
+    { "minPrice": 944, "itemID": 2025, "name": "Tomato", "league": 1 },
+    { "minPrice": 1148, "itemID": 2026, "name": "Apple", "league": 1 },
+    { "minPrice": 730, "itemID": 2027, "name": "Wildberry", "league": 1 },
+    { "minPrice": 1838, "itemID": 2028, "name": "Banana", "league": 1 },
+    { "minPrice": 1110, "itemID": 2029, "name": "Wheat", "league": 1 },
+    { "minPrice": 1300, "itemID": 2030, "name": "Rice", "league": 1 },
+    { "minPrice": 625000, "itemID": 2031, "name": "Sageberry", "league": 1 },
+    { "minPrice": 13698, "itemID": 2032, "name": "Choccy Milk", "league": 1 },
+    { "minPrice": 483, "itemID": 2034, "name": "Filleted Fish", "league": 1 },
+    { "minPrice": 999, "itemID": 2036, "name": "Ground Flour", "league": 1 },
+    { "minPrice": 1448, "itemID": 2037, "name": "Churned Dairy", "league": 1 },
+    { "minPrice": 1390, "itemID": 2039, "name": "Diced Fruit", "league": 1 },
+    {
+      "minPrice": 338,
+      "itemID": 2040,
+      "name": "Chopped Vegetables",
+      "league": 1
+    },
+    { "minPrice": 444, "itemID": 2043, "name": "Minced Meat", "league": 1 },
+    {
+      "minPrice": 1150,
+      "itemID": 2044,
+      "name": "Butchered Monster",
+      "league": 1
+    },
+    { "minPrice": 1499, "itemID": 2045, "name": "Sour Essence", "league": 1 },
+    { "minPrice": 225, "itemID": 2046, "name": "Bitter Essence", "league": 1 },
+    { "minPrice": 488, "itemID": 2047, "name": "Sweet Essence", "league": 1 },
+    { "minPrice": 399, "itemID": 2048, "name": "Spicy Essence", "league": 1 },
+    { "minPrice": 3200, "itemID": 2049, "name": "Seed Oil", "league": 1 },
+    { "minPrice": 3000, "itemID": 2103, "name": "Seared Fish", "league": 1 },
+    {
+      "minPrice": 2500,
+      "itemID": 2106,
+      "name": "Spaghetti & Meat",
+      "league": 1
+    },
+    {
+      "minPrice": 5200,
+      "itemID": 2110,
+      "name": "Fisherman's Pie",
+      "league": 1
+    },
+    { "minPrice": 5000, "itemID": 2111, "name": "Fruit Pie", "league": 1 },
+    {
+      "minPrice": 999999999,
+      "itemID": 2112,
+      "name": "Demon Cake",
+      "league": 1
+    },
+    { "minPrice": 1550, "itemID": 2114, "name": "Fruit Cake", "league": 1 },
+    { "minPrice": 1500, "itemID": 2122, "name": "Meat Roast", "league": 1 },
+    { "minPrice": 8000, "itemID": 2123, "name": "Fried Fruit", "league": 1 },
+    {
+      "minPrice": 4800,
+      "itemID": 2124,
+      "name": "Grilled Veggies",
+      "league": 1
+    },
+    { "minPrice": 4300, "itemID": 2125, "name": "Kebabs", "league": 1 },
+    { "minPrice": 25000, "itemID": 2126, "name": "Candied Fruit", "league": 1 },
+    { "minPrice": 999999999, "itemID": 2132, "name": "Pudding", "league": 1 },
+    { "minPrice": 6000, "itemID": 2137, "name": "Seafood Curry", "league": 1 },
+    {
+      "minPrice": 999999999,
+      "itemID": 2138,
+      "name": "Monster Gelato",
+      "league": 1
+    },
+    { "minPrice": 250, "itemID": 2142, "name": "Rare Potion", "league": 1 },
+    { "minPrice": 50, "itemID": 2147, "name": "Legendary Potion", "league": 1 },
+    {
+      "minPrice": 1000000000,
+      "itemID": 2149,
+      "name": "Epic Concentrated Potion",
+      "league": 1
+    },
+    {
+      "minPrice": 30000,
+      "itemID": 3000,
+      "name": "Water Imbued Dust",
+      "league": 1
+    },
+    { "minPrice": 20, "itemID": 3001, "name": "Empty Vial", "league": 10 },
+    {
+      "minPrice": 1000000,
+      "itemID": 3002,
+      "name": "Empty Large Vial",
+      "league": 1
+    },
+    { "minPrice": 2000000, "itemID": 3004, "name": "Watermelon", "league": 1 },
+    { "minPrice": 1000, "itemID": 3004, "name": "Watermelon", "league": 10 },
+    { "minPrice": 799, "itemID": 3005, "name": "Durian", "league": 1 },
+    { "minPrice": 899, "itemID": 3006, "name": "Onion", "league": 1 },
+    { "minPrice": 129, "itemID": 3007, "name": "Mana Berry", "league": 1 },
+    { "minPrice": 899, "itemID": 3008, "name": "Thorny Root", "league": 1 },
+    { "minPrice": 260, "itemID": 3009, "name": "Thorny Vine", "league": 1 },
+    { "minPrice": 249998, "itemID": 3010, "name": "Tangle Root", "league": 1 },
+    { "minPrice": 790, "itemID": 3011, "name": "Mandrake", "league": 1 },
+    { "minPrice": 23330, "itemID": 3013, "name": "Frost Flowers", "league": 1 },
+    { "minPrice": 5489, "itemID": 3014, "name": "Black Berry", "league": 1 },
+    { "minPrice": 3799, "itemID": 3015, "name": "Fairy Dust", "league": 1 },
+    { "minPrice": 4873, "itemID": 3016, "name": "Lotus Flower", "league": 1 },
+    {
+      "minPrice": 38777,
+      "itemID": 3017,
+      "name": "Four-leaf Clover",
+      "league": 1
+    },
+    {
+      "minPrice": 3697,
+      "itemID": 3018,
+      "name": "Glow Spore Shroom",
+      "league": 1
+    },
+    { "minPrice": 599, "itemID": 3019, "name": "Pineapple", "league": 1 },
+    { "minPrice": 549, "itemID": 3020, "name": "Ghost Shrooms", "league": 1 },
+    { "minPrice": 49998, "itemID": 3021, "name": "Yellow Pepper", "league": 1 },
+    { "minPrice": 750, "itemID": 4000, "name": "Bone", "league": 1 },
+    { "minPrice": 640, "itemID": 4001, "name": "Bone Plate", "league": 1 },
+    { "minPrice": 7800, "itemID": 4002, "name": "Chitin", "league": 1 },
+    {
+      "minPrice": 39393939,
+      "itemID": 4003,
+      "name": "Heavy Chitin",
+      "league": 1
+    },
+    { "minPrice": 4400, "itemID": 4004, "name": "Fur", "league": 1 },
+    { "minPrice": 7500, "itemID": 4005, "name": "Thick Fur", "league": 1 },
+    { "minPrice": 36997, "itemID": 4006, "name": "Wool", "league": 1 },
+    { "minPrice": 2100, "itemID": 4007, "name": "Hide", "league": 1 },
+    { "minPrice": 5501, "itemID": 4008, "name": "Rough Hide", "league": 1 },
+    { "minPrice": 116998, "itemID": 4009, "name": "Scale", "league": 1 },
+    {
+      "minPrice": 12299000,
+      "itemID": 4010,
+      "name": "Heavy Scale",
+      "league": 1
+    },
+    {
+      "minPrice": 498777,
+      "itemID": 4011,
+      "name": "Crystal Scale",
+      "league": 1
+    },
+    { "minPrice": 19939, "itemID": 4012, "name": "Leather", "league": 1 },
+    { "minPrice": 24999, "itemID": 4013, "name": "Rough Cloth", "league": 1 },
+    {
+      "minPrice": 27999,
+      "itemID": 4014,
+      "name": "Restored Cloth",
+      "league": 1
+    },
+    { "minPrice": 34999, "itemID": 4015, "name": "Lesser Cloth", "league": 1 },
+    { "minPrice": 27999, "itemID": 4016, "name": "Imbued Cloth", "league": 1 },
+    { "minPrice": 3000, "itemID": 4017, "name": "Major Cloth", "league": 1 },
+    { "minPrice": 4500, "itemID": 4018, "name": "Greater Cloth", "league": 1 },
+    { "minPrice": 28000, "itemID": 4019, "name": "Elder Cloth", "league": 1 },
+    { "minPrice": 1492, "itemID": 4020, "name": "Aqueous Grass", "league": 1 },
+    { "minPrice": 2500, "itemID": 4020, "name": "Aqueous Grass", "league": 10 },
+    { "minPrice": 3798, "itemID": 4021, "name": "Water Weeds", "league": 1 },
+    { "minPrice": 3918, "itemID": 4022, "name": "River Vines", "league": 1 },
+    { "minPrice": 591, "itemID": 4023, "name": "Violet Ribbons", "league": 1 },
+    { "minPrice": 2500, "itemID": 4024, "name": "White Reeds", "league": 1 },
+    { "minPrice": 12000, "itemID": 4025, "name": "Ancient Kelp", "league": 1 },
+    {
+      "minPrice": 50000,
+      "itemID": 4026,
+      "name": "Aqueous Chunks",
+      "league": 1
+    },
+    { "minPrice": 95000, "itemID": 4027, "name": "Frost Shard", "league": 1 },
+    { "minPrice": 889000, "itemID": 4028, "name": "Elder Stone", "league": 1 },
+    { "minPrice": 75000, "itemID": 4500, "name": "Box Trap", "league": 1 },
+    { "minPrice": 300000, "itemID": 4502, "name": "Bird Trap", "league": 1 },
+    { "minPrice": 49999998, "itemID": 4503, "name": "Net Trap", "league": 1 },
+    { "minPrice": 2500000, "itemID": 4505, "name": "Water Totem", "league": 1 },
+    {
+      "minPrice": 3999999,
+      "itemID": 4506,
+      "name": "Nature Totem",
+      "league": 1
+    },
+    { "minPrice": 3600000, "itemID": 4507, "name": "Earth Totem", "league": 1 },
+    {
+      "minPrice": 4869666,
+      "itemID": 4508,
+      "name": "Coalescing Totem",
+      "league": 1
+    },
+    {
+      "minPrice": 499999999,
+      "itemID": 7029,
+      "name": "Magical Snowball",
+      "league": 1
+    },
+    {
+      "minPrice": 9999999999,
+      "itemID": 7030,
+      "name": "Candy Cane Daggers",
+      "league": 1
+    },
+    {
+      "minPrice": 10000000000,
+      "itemID": 7031,
+      "name": "Festive Shroud",
+      "league": 1
+    },
+    {
+      "minPrice": 860000000,
+      "itemID": 8000,
+      "name": "RISE OF INFO",
+      "league": 1
+    },
+    {
+      "minPrice": 1300000,
+      "itemID": 8001,
+      "name": "Black Knight's Trial",
+      "league": 1
+    },
+    { "minPrice": 666666, "itemID": 8002, "name": "Giant Scroll", "league": 1 },
+    {
+      "minPrice": 1000000,
+      "itemID": 8003,
+      "name": "Corroded Scroll",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 8005,
+      "name": "Cluster-Cluck",
+      "league": 10
+    },
+    {
+      "minPrice": 120000,
+      "itemID": 8006,
+      "name": "Demonic Trial",
+      "league": 1
+    },
+    {
+      "minPrice": 2000000,
+      "itemID": 8007,
+      "name": "Taproot Scroll",
+      "league": 1
+    },
+    {
+      "minPrice": 800000,
+      "itemID": 8009,
+      "name": "Shapeless Scroll",
+      "league": 1
+    },
+    {
+      "minPrice": 6666666,
+      "itemID": 8010,
+      "name": "Stormy Sea Scroll",
+      "league": 1
+    },
+    {
+      "minPrice": 1500000,
+      "itemID": 8011,
+      "name": "Enchanted Armory Scroll",
+      "league": 1
+    },
+    {
+      "minPrice": 400000,
+      "itemID": 8012,
+      "name": "Fallen Academy Scroll",
+      "league": 1
+    },
+    {
+      "minPrice": 300000,
+      "itemID": 8013,
+      "name": "Overgrown Woods Scroll",
+      "league": 1
+    },
+    {
+      "minPrice": 420069,
+      "itemID": 8014,
+      "name": "Elven Encampment Scroll",
+      "league": 1
+    },
+    {
+      "minPrice": 20500000,
+      "itemID": 9000,
+      "name": "Giant's Keep Key",
+      "league": 1
+    },
+    {
+      "minPrice": 3990000,
+      "itemID": 9001,
+      "name": "Nature Fragment",
+      "league": 1
+    },
+    {
+      "minPrice": 2300000,
+      "itemID": 9002,
+      "name": "Ice Fragment",
+      "league": 1
+    },
+    {
+      "minPrice": 2700000,
+      "itemID": 9003,
+      "name": "Fire Fragment",
+      "league": 1
+    },
+    {
+      "minPrice": 9000000,
+      "itemID": 9004,
+      "name": "Corrupted Fragment",
+      "league": 1
+    },
+    {
+      "minPrice": 4999999,
+      "itemID": 9004,
+      "name": "Corrupted Fragment",
+      "league": 10
+    },
+    {
+      "minPrice": 1690000,
+      "itemID": 9005,
+      "name": "Chaos Fragment",
+      "league": 1
+    },
+    {
+      "minPrice": 3499999,
+      "itemID": 9007,
+      "name": "Scrap of Stained Parchment",
+      "league": 1
+    },
+    {
+      "minPrice": 1950000,
+      "itemID": 9009,
+      "name": "Dark Key Piece",
+      "league": 1
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 9010,
+      "name": "Cursed Spade",
+      "league": 1
+    },
+    {
+      "minPrice": 1199000,
+      "itemID": 9013,
+      "name": "Molten Ashes",
+      "league": 1
+    },
+    {
+      "minPrice": 4000000,
+      "itemID": 9014,
+      "name": "Infernal Flame",
+      "league": 1
+    },
+    { "minPrice": 20000000, "itemID": 9017, "name": "Castle Map", "league": 1 },
+    {
+      "minPrice": 45000000,
+      "itemID": 9018,
+      "name": "Ancient Pyramid",
+      "league": 1
+    },
+    {
+      "minPrice": 5899998,
+      "itemID": 9020,
+      "name": "Ancient Crystal",
+      "league": 1
+    },
+    {
+      "minPrice": 5999999,
+      "itemID": 9021,
+      "name": "Ancient Stone",
+      "league": 1
+    },
+    { "minPrice": 550000, "itemID": 9022, "name": "Partial Map", "league": 1 },
+    { "minPrice": 32999999, "itemID": 9023, "name": "Elder Gem", "league": 1 },
+    {
+      "minPrice": 400000000,
+      "itemID": 9024,
+      "name": "Awakened Shrimp Eye",
+      "league": 1
+    },
+    {
+      "minPrice": 48000000,
+      "itemID": 9025,
+      "name": "Dwarven Research Key",
+      "league": 1
+    },
+    {
+      "minPrice": 30420069,
+      "itemID": 9026,
+      "name": "Heart of the Oak",
+      "league": 1
+    },
+    {
+      "minPrice": 6950000,
+      "itemID": 9028,
+      "name": "Core Fragment",
+      "league": 1
+    },
+    { "minPrice": 5999999, "itemID": 9029, "name": "Core Ingot", "league": 1 },
+    {
+      "minPrice": 5500000,
+      "itemID": 9030,
+      "name": "Ancient Cloth Fragment",
+      "league": 1
+    },
+    {
+      "minPrice": 11900000,
+      "itemID": 9031,
+      "name": "Ancient Oak Seed",
+      "league": 1
+    },
+    {
+      "minPrice": 8000000,
+      "itemID": 9032,
+      "name": "Cursed Spade Head",
+      "league": 1
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 9033,
+      "name": "Dark Vault Key",
+      "league": 1
+    },
+    {
+      "minPrice": 2899999,
+      "itemID": 9034,
+      "name": "Dark Vault Identification Crystal",
+      "league": 1
+    },
+    {
+      "minPrice": 14000000,
+      "itemID": 9036,
+      "name": "Prismatic Extract",
+      "league": 1
+    },
+    {
+      "minPrice": 2999999,
+      "itemID": 10003,
+      "name": "Gem Package",
+      "league": 1
+    },
+    {
+      "minPrice": 980000,
+      "itemID": 10013,
+      "name": "Lesser Jewelry Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 5999998,
+      "itemID": 10014,
+      "name": "Greater Jewelry Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 10016,
+      "name": "Dark Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 14999498,
+      "itemID": 10017,
+      "name": "Giant Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 23999999,
+      "itemID": 10020,
+      "name": "Barrows Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000000,
+      "itemID": 10024,
+      "name": "INFO Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 500000000,
+      "itemID": 10025,
+      "name": "Ancient Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 15000000,
+      "itemID": 10026,
+      "name": "Dwarven Research Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 14000000,
+      "itemID": 10027,
+      "name": "Elven Research Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 34999999,
+      "itemID": 10028,
+      "name": "Academy Research Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 12500000,
+      "itemID": 10029,
+      "name": "Dark Vault Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 19999999,
+      "itemID": 10030,
+      "name": "Chicken Kitchen Cache",
+      "league": 1
+    },
+    {
+      "minPrice": 999999,
+      "itemID": 11002,
+      "name": "Advanced Tacklebox",
+      "league": 1
+    },
+    {
+      "minPrice": 2000000,
+      "itemID": 11003,
+      "name": "Pro Tacklebox",
+      "league": 10
+    },
+    { "minPrice": 5, "itemID": 11010, "name": "Earthworm Bait", "league": 1 },
+    {
+      "minPrice": 8,
+      "itemID": 11011,
+      "name": "Fat Nightcrawler Bait",
+      "league": 1
+    },
+    { "minPrice": 10, "itemID": 11012, "name": "Glowbug Bait", "league": 1 },
+    {
+      "minPrice": 35,
+      "itemID": 11013,
+      "name": "Shrimp Tail Bait",
+      "league": 1
+    },
+    { "minPrice": 289, "itemID": 11014, "name": "Fish Guts Bait", "league": 1 },
+    {
+      "minPrice": 99,
+      "itemID": 11015,
+      "name": "Smelly Meat Bait",
+      "league": 1
+    },
+    {
+      "minPrice": 200,
+      "itemID": 11016,
+      "name": "Hardened Hook Bait",
+      "league": 1
+    },
+    {
+      "minPrice": 699,
+      "itemID": 11018,
+      "name": "Writhing Tentacle Bait",
+      "league": 1
+    },
+    {
+      "minPrice": 2998,
+      "itemID": 11019,
+      "name": "Mysterious Bait",
+      "league": 1
+    },
+    {
+      "minPrice": 2000,
+      "itemID": 11021,
+      "name": "Crustacean Meat Bait",
+      "league": 1
+    },
+    {
+      "minPrice": 639,
+      "itemID": 11030,
+      "name": "Rotten Driftwood",
+      "league": 1
+    },
+    {
+      "minPrice": 1898,
+      "itemID": 11031,
+      "name": "Sturdy Driftwood",
+      "league": 1
+    },
+    { "minPrice": 140000, "itemID": 11032, "name": "Aquamarine", "league": 1 },
+    {
+      "minPrice": 27499,
+      "itemID": 11036,
+      "name": "Mystical Driftwood",
+      "league": 1
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 12000,
+      "name": "Fisherman's Smock",
+      "league": 1
+    },
+    {
+      "minPrice": 9999999,
+      "itemID": 12001,
+      "name": "Fisherman's Bucket Hat",
+      "league": 1
+    },
+    {
+      "minPrice": 9999999,
+      "itemID": 12001,
+      "name": "Fisherman's Bucket Hat",
+      "league": 10
+    },
+    {
+      "minPrice": 23750000,
+      "itemID": 12002,
+      "name": "Fisherman's Waders",
+      "league": 1
+    },
+    {
+      "minPrice": 20000000,
+      "itemID": 12003,
+      "name": "Miner's Smock",
+      "league": 1
+    },
+    {
+      "minPrice": 11111111,
+      "itemID": 12003,
+      "name": "Miner's Smock",
+      "league": 10
+    },
+    {
+      "minPrice": 18000000,
+      "itemID": 12004,
+      "name": "Miner's Lantern Helmet",
+      "league": 1
+    },
+    {
+      "minPrice": 11111111,
+      "itemID": 12004,
+      "name": "Miner's Lantern Helmet",
+      "league": 10
+    },
+    {
+      "minPrice": 35000000,
+      "itemID": 12005,
+      "name": "Miner's Trousers",
+      "league": 1
+    },
+    {
+      "minPrice": 11111111,
+      "itemID": 12005,
+      "name": "Miner's Trousers",
+      "league": 10
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 12006,
+      "name": "Lumberjack's Vest",
+      "league": 1
+    },
+    {
+      "minPrice": 9999999,
+      "itemID": 12006,
+      "name": "Lumberjack's Vest",
+      "league": 10
+    },
+    {
+      "minPrice": 80000000,
+      "itemID": 12007,
+      "name": "Lumberjack's Hat",
+      "league": 1
+    },
+    {
+      "minPrice": 9999999,
+      "itemID": 12007,
+      "name": "Lumberjack's Hat",
+      "league": 10
+    },
+    {
+      "minPrice": 30000000,
+      "itemID": 12008,
+      "name": "Lumberjack's Trousers",
+      "league": 1
+    },
+    {
+      "minPrice": 9999999,
+      "itemID": 12008,
+      "name": "Lumberjack's Trousers",
+      "league": 10
+    },
+    {
+      "minPrice": 85000000,
+      "itemID": 12013,
+      "name": "Chef's Hat",
+      "league": 1
+    },
+    { "minPrice": 6499, "itemID": 12014, "name": "Infernal Dust", "league": 1 },
+    {
+      "minPrice": 694200000,
+      "itemID": 12018,
+      "name": "Camo Cloak",
+      "league": 1
+    },
+    {
+      "minPrice": 25000000,
+      "itemID": 12019,
+      "name": "Flamboyant Cape",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 12020,
+      "name": "Small Bag of Holding",
+      "league": 1
+    },
+    {
+      "minPrice": 9999999,
+      "itemID": 12020,
+      "name": "Small Bag of Holding",
+      "league": 10
+    },
+    {
+      "minPrice": 350000000,
+      "itemID": 12021,
+      "name": "Bag of Holding",
+      "league": 1
+    },
+    {
+      "minPrice": 300000000,
+      "itemID": 12022,
+      "name": "Large Bag of Holding",
+      "league": 1
+    },
+    {
+      "minPrice": 7000000,
+      "itemID": 12023,
+      "name": "Newbie Adventurer's Backpack",
+      "league": 1
+    },
+    {
+      "minPrice": 149000000,
+      "itemID": 12024,
+      "name": "Dwarven Adventurer's Backpack",
+      "league": 1
+    },
+    {
+      "minPrice": 777777777,
+      "itemID": 12025,
+      "name": "Cloak of Many Pockets",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 12026,
+      "name": "Cloak of the Void",
+      "league": 1
+    },
+    {
+      "minPrice": 84000000,
+      "itemID": 12027,
+      "name": "Dwarven Manufacturing Pendant",
+      "league": 1
+    },
+    {
+      "minPrice": 57000000,
+      "itemID": 12028,
+      "name": "Elven Logistics Pendant",
+      "league": 1
+    },
+    {
+      "minPrice": 50000000,
+      "itemID": 12033,
+      "name": "Void Portal Anchor",
+      "league": 1
+    },
+    {
+      "minPrice": 5000000,
+      "itemID": 12034,
+      "name": "Defunct Golem Core",
+      "league": 1
+    },
+    { "minPrice": 6500000, "itemID": 12035, "name": "Lava Heart", "league": 1 },
+    {
+      "minPrice": 6498000,
+      "itemID": 12036,
+      "name": "Bleached Cloth",
+      "league": 1
+    },
+    {
+      "minPrice": 6969419,
+      "itemID": 12037,
+      "name": "Academy Wards",
+      "league": 1
+    },
+    {
+      "minPrice": 39999999,
+      "itemID": 12038,
+      "name": "Smith's Golem Torso",
+      "league": 1
+    },
+    {
+      "minPrice": 40000000,
+      "itemID": 12039,
+      "name": "Smith's Golem Legs",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 12040,
+      "name": "Chef's Coat",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 12042,
+      "name": "Runecrafter's Robe Top",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 12043,
+      "name": "Runecrafter's Robe Hood",
+      "league": 1
+    },
+    {
+      "minPrice": 100000000,
+      "itemID": 12044,
+      "name": "Runecrafter's Robe Bottoms",
+      "league": 1
+    },
+    {
+      "minPrice": 127799999,
+      "itemID": 15004,
+      "name": "Tradeable Talent Respec Token",
+      "league": 1
+    }
+  ]
+}
