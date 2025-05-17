@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Build output (si tu utilises `vite build`)
+dist/
+
+# Vite cache
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environnement local
+.env
+.env.*.local
+
+# Dossiers à ignorer
+src/scripts/
+output/
+
+# Editor files (VSCode, etc.)
+.vscode/
+.idea/
+*.swp
